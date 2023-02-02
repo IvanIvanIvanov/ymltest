@@ -1,0 +1,267 @@
+ <yml_catalog date="2023-02-01 10:22">
+    <shop>
+        <categories>
+            <category id="1" picture="https://test.com/testcat/pict1.jpg">Автомобильные жидкости</category>
+            <category id="2" picture="https://test.com/testcat/pict2.jpg">Обувь</category>
+        </categories>
+        <offers>
+            <offer id="11111" available="true">
+                <name>Антифриз STAREX Green 5кг</name>
+                <url>https://test.ru/test1/</url>
+                <price>600</price>
+                <priceUnits>?????</priceUnits>
+                <currencyId>RUB</currencyId>
+                <vendor>STAREX</vendor>
+                <categoryId>1</categoryId>
+                <model>170153972</model>
+                <typePrefix>Антифриз</typePrefix>
+                <param name="Производитель">Россия</param>
+                <param name="Цвет" hex="#00FF00">Зеленый</param>
+                <param name="Объем (л)">5</param>
+                <param name="Гарантия">В течение сррока, установленного производителем</param>
+                <param name="Температура замерзания (°C)">-40</param>
+                <description>Антифриз бла бла бла</description>
+                <rec title="Похожие товары">22222,33333,44444</rec>
+                <vat>vat_10</vat>
+                <picture>https://test.com/test/image1.jpg</picture>
+                <picture>https://test.com/test/image2.jpg</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>false</preorder>
+                <rating>?????</rating>
+                <reviews_count>?????</reviews_count>
+                <video main="true" image="https://test.com/temp_vid_pic">https://test.ru/testvideo.mp4</video>
+            </offer>
+            <offer id="22222" available="true">
+                <name>Тормозная дижкость SINTEC Super DOT-4 455 г</name>
+                <url>https://test.ru/test2/</url>
+                <price>1</price>
+                <priceUnits>?????</priceUnits>
+                <currencyId>RUB</currencyId>
+                <vendor>SINTEC</vendor>
+                <categoryId>234</categoryId>
+                <model>170063421</model>
+                <typePrefix>Жидкость тормозная</typePrefix>
+                <param name="Производитель">Россия</param>
+                <param name="Объем (л)">0.455</param>
+                <param name="Гарантия">В течение сррока, установленного производителем</param>
+                <param name="Допуск производителя">DOT-4</param>
+                <description>Тормозная жидкость бла бла бла</description>
+                <rec title="Похожие товары">11111,33333,44444</rec>
+                <vat>vat_10</vat>
+                <picture>https://test.com/test/image12.jpg</picture>
+                <picture>https://test.com/test/image22.jpg</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>false</preorder>
+                <rating>?????</rating>
+                <reviews_count>?????</reviews_count>
+                <video main="true" image="https://test.com/temp_vid_pic2">https://test.ru/testvideo2.mp4</video>
+            </offer>
+            <offer id="33333" available="true">
+                <name>Жидкость стеклоомывающая AVS AVK-401</name>
+                <url>https://test.ru/test3/</url>
+                <price>250</price>
+                <priceUnits>?????</priceUnits>
+                <currencyId>RUB</currencyId>
+                <vendor>AVS</vendor>
+                <categoryId>1</categoryId>
+                <model>170184267</model>
+                <typePrefix>Жидкость стеклоомывающая</typePrefix>
+                <param name="Производитель">Китай</param>
+                <param name="Цвет" hex="#0000FF">Синий</param>
+                <param name="Объем (л)">4</param>
+                <param name="Гарантия">В течение сррока, установленного производителем</param>
+                <param name="Температура замерзания (°C)">-40</param>
+                <description>Жидкость бла бла бла</description>
+                <rec title="Похожие товары">11111,22222,44444</rec>
+                <vat>vat_20</vat>
+                <picture>https://test.com/test/image13.jpg</picture>
+                <picture>https://test.com/test/image23.jpg</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>true</preorder>
+                <rating>?????</rating>
+                <reviews_count>?????</reviews_count>
+                <video main="true" image="https://test.com/temp_vid_pic3">https://test.ru/testvideo3.mp4</video>
+            </offer>
+            <offer id="44444" available="true">
+                <name>"Электролит OILRIGHT 1 л"</name>
+                <url>https://test.ru/test4/</url>
+                <price>125</price>
+                <priceUnits>?????</priceUnits>
+                <currencyId>RUB</currencyId>
+                <vendor>OILRIGHT</vendor>
+                <categoryId>1</categoryId>
+                <model>170063325</model>
+                <typePrefix>"ktrЭлектролит"</typePrefix>
+                <param name="Производитель">Россия</param>
+                <param name="Цвет" hex="#??????">Бесцветный</param>
+                <param name="Объем (л)">1</param>
+                <param name="Гарантия">В течение сррока, установленного производителем</param>
+                <description>Готовый к применению бла бла бла</description>
+                <rec title="Похожие товары">11111,22222,33333</rec>
+                <vat>vat_20</vat>
+                <picture>https://test.com/test/image14.jpg</picture>
+                <picture>https://test.com/test/image24.jpg</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>true</preorder>
+                <rating>?????</rating>
+                <reviews_count>?????</reviews_count>
+                <video main="true" image="https://test.com/temp_vid_pic4">https://test.ru/testvideo4.mp4</video>
+            </offer>
+            <offer id="55555" available="true">
+                <name>"Кастомизируемый Электролит 1 л"</name>
+                <url>https://test.ru/test5/</url>
+                <price>999</price>
+                <priceUnits>?????</priceUnits>
+                <currencyId>RUB</currencyId>
+                <vendor>ТЕСТ</vendor>
+                <categoryId>1</categoryId>
+                <model>999999999</model>
+                <typePrefix>"Электролит"</typePrefix>
+                <param name="Производитель">ТЕСТ</param>
+                <param name="Цвет" hex="#0000FF">Синий</param>
+                <param name="Объем (л)">12</param>
+                <param name="Гарантия">В течение сррока, установленного мною</param>
+                <description>Ща затестим к применению бла бла бла</description>
+                <rec title="Похожие товары">11111,22222,33333</rec>
+                <vat>vat_20</vat>
+                <picture>https://test.com/test/image15.jpg</picture>
+                <picture>https://test.com/test/image25.jpg</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>true</preorder>
+                <rating>?????</rating>
+                <reviews_count>?????</reviews_count>
+                <video main="true" image="https://test.com/temp_vid_pic5">https://test.ru/testvideo5.mp4</video>
+            </offer>
+            <offer id="666666" available="true">
+                <name>Ну норм такие мокаси</name>
+                <url>https://test.ru/test6/</url>
+                <price>5000</price>
+                <priceUnits>?????</priceUnits>
+                <currencyId>RUB</currencyId>
+                <vendor>Чебурашка</vendor>
+                <categoryId>2</categoryId>
+                <model>123</model>
+                <typePrefix>Мокаси</typePrefix>
+                <param name="Производитель">Россия</param>
+                <param name="Цвет" hex="#00FF00">Зеленый</param>
+                <param name="Размер">39</param>
+                <param name="Гарантия">100 лет</param>
+                <param name="Температура для носки (°C)">30</param>
+                <description>Ходить строго летом</description>
+                <rec title="Похожие товары">777777,888888,999999,121212</rec>
+                <vat>vat_20</vat>
+                <picture>https://test.com/test/image6.jpg</picture>
+                <picture>https://test.com/test/image6.jpg</picture>
+                <useBonuses>false</useBonuses>
+                <preorder>true</preorder>
+                <rating>?????</rating>
+                <reviews_count>?????</reviews_count>
+                <video main="true" image="https://test.com/temp_vid_pic6">https://test.ru/testvideo6.mp4</video>
+            </offer>
+            <offer id="777777" available="true">
+                <name>Мокаси еще лучше</name>
+                <url>https://test.ru/test7/</url>
+                <price>10000</price>
+                <priceUnits>?????</priceUnits>
+                <currencyId>RUB</currencyId>
+                <vendor>Кожа крокодила Гены</vendor>
+                <categoryId>2</categoryId>
+                <model>456</model>
+                <typePrefix>Мокаси</typePrefix>
+                <param name="Производитель">Читай</param>
+                <param name="Цвет" hex="#00FF00">Зеленый</param>
+                <param name="Размер">55</param>
+                <param name="Гарантия">120 лет</param>
+                <param name="Температура для носки (°C)">40</param>
+                <description>Ходить строго летом и в Египте</description>
+                <rec title="Похожие товары">666666,888888,999999,121212</rec>
+                <vat>vat_20</vat>
+                <picture>https://test.com/test/image7.jpg</picture>
+                <picture>https://test.com/test/image7.jpg</picture>
+                <useBonuses>false</useBonuses>
+                <preorder>true</preorder>
+                <rating>?????</rating>
+                <reviews_count>?????</reviews_count>
+                <video main="true" image="https://test.com/temp_vid_pic7">https://test.ru/testvideo7.mp4</video>
+            </offer>
+            <offer id="888888" available="true">
+                <name>Почти лучшие мокаси</name>
+                <url>https://test.ru/test8/</url>
+                <price>15000</price>
+                <priceUnits>?????</priceUnits>
+                <currencyId>RUB</currencyId>
+                <vendor>Не придумал</vendor>
+                <categoryId>2</categoryId>
+                <model>567</model>
+                <typePrefix>Мокаси</typePrefix>
+                <param name="Производитель">Читай</param>
+                <param name="Цвет" hex="#00FF00">Зеленый</param>
+                <param name="Размер">60</param>
+                <param name="Гарантия">140 лет</param>
+                <param name="Температура для носки (°C)">50</param>
+                <description>Ходить в лютую жару</description>
+                <rec title="Похожие товары">666666,777777,999999,121212</rec>
+                <vat>vat_20</vat>
+                <picture>https://test.com/test/image8.jpg</picture>
+                <picture>https://test.com/test/image8.jpg</picture>
+                <useBonuses>false</useBonuses>
+                <preorder>true</preorder>
+                <rating>?????</rating>
+                <reviews_count>?????</reviews_count>
+                <video main="true" image="https://test.com/temp_vid_pic8">https://test.ru/testvideo8.mp4</video>
+            </offer>
+            <offer id="999999" available="true">
+                <name>Самые топовые мокаси</name>
+                <url>https://test.ru/test9/</url>
+                <price>25000</price>
+                <priceUnits>?????</priceUnits>
+                <currencyId>RUB</currencyId>
+                <vendor>Лучший производитель</vendor>
+                <categoryId>2</categoryId>
+                <model>678</model>
+                <typePrefix>Мокаси</typePrefix>
+                <param name="Производитель">Лучшая страна в мире</param>
+                <param name="Цвет" hex="#00FF00">Зеленый</param>
+                <param name="Размер">75</param>
+                <param name="Гарантия">180 лет</param>
+                <param name="Температура для носки (°C)">99</param>
+                <description>Ходить по горящим углям онли</description>
+                <rec title="Похожие товары">666666,777777,888888,121212</rec>
+                <vat>vat_20</vat>
+                <picture>https://test.com/test/image9.jpg</picture>
+                <picture>https://test.com/test/image9.jpg</picture>
+                <useBonuses>false</useBonuses>
+                <preorder>true</preorder>
+                <rating>?????</rating>
+                <reviews_count>?????</reviews_count>
+                <video main="true" image="https://test.com/temp_vid_pic9">https://test.ru/testvideo9.mp4</video>
+            </offer>
+            <offer id="121212" available="true">
+                <name>Читерские мокаси "Сделай сам"</name>
+                <url>https://test.ru/test12/</url>
+                <price>99000</price>
+                <priceUnits>?????</priceUnits>
+                <currencyId>RUB</currencyId>
+                <vendor>Имбовый производитель</vendor>
+                <categoryId>2</categoryId>
+                <model>789</model>
+                <typePrefix>Мокаси</typePrefix>
+                <param name="Производитель">Кокосовые острова</param>
+                <param name="Цвет" hex="#00FF00">Зеленый</param>
+                <param name="Размер">82</param>
+                <param name="Гарантия">300 лет</param>
+                <param name="Температура для носки (°C)">758</param>
+                <description>Ходи где хочешь - ты заслужил</description>
+                <rec title="Похожие товары">666666,777777,888888,999999</rec>
+                <vat>vat_20</vat>
+                <picture>https://test.com/test/image12.jpg</picture>
+                <picture>https://test.com/test/image12.jpg</picture>
+                <useBonuses>false</useBonuses>
+                <preorder>true</preorder>
+                <rating>?????</rating>
+                <reviews_count>?????</reviews_count>
+                <video main="true" image="https://test.com/temp_vid_pic12">https://test.ru/testvideo12.mp4</video>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
