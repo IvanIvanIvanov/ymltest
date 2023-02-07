@@ -1,0 +1,307 @@
+ <yml_catalog date="2023-02-01 10:22">
+    <shop>
+        <categories>
+            <category id="1" picture="https://avatars.mds.yandex.net/get-mpic/5521597/img_id915335463580666928.png/600x800">Автомобильные жидкости</category>
+            <category id="2" picture="https://avatars.mds.yandex.net/get-mpic/5378193/img_id4341031306732130811.jpeg/orig">Шины и диски</category>
+        </categories>
+        <offers>
+            <offer id="11111" available="true" group_id="101112">
+                <name>Антифриз STAREX Green 5кг</name>
+                <url>https://test.ru/test1/</url>
+                <price>600</price>
+                <currencyId>RUB</currencyId>
+                <vendor>STAREX</vendor>
+                <categoryId>1</categoryId>
+                <typePrefix>Антифриз</typePrefix>
+                <param name="Вид антифриза">Готовый к применению антифриз</param>
+                <param name="Производитель">Россия</param>
+                <param name="Цвет" hex="#00FF00">Зеленый</param>
+                <param name="Объем (л)">5</param>
+                <param name="Индекс допуска VAG">G-11</param>
+                <param name="Допуск">ASTM D3306</param>
+                <param name="Гарантия">В течение срока, установленного производителем</param>
+                <param name="Температура замерзания (°C)">-40</param>
+                <param name="Температура кипения (°C)">120</param>
+                <description>Устойчивый к замерзанию антифриз по доступной цене. Идеально подходит в качестве &quot;дежурного&quot; антифриза для долива.</description>
+                <rec title="Похожие товары">22222,33333,44444</rec>
+                <vat>vat_10</vat>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5229821/img_id8691013352836235795.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/1705137/img_id4044958778831247834.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/7464534/img_id4392974053101004661.jpeg/orig</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>false</preorder>
+                <rating>4.5</rating>
+                <reviews_count>67</reviews_count>
+            </offer>
+            <offer id="111112" available="true" group_id="101112">
+                <name>Антифриз STAREX Green 3кг</name>
+                <url>https://test.ru/test1/</url>
+                <price>600</price>
+                <currencyId>RUB</currencyId>
+                <vendor>STAREX</vendor>
+                <categoryId>1</categoryId>
+                <typePrefix>Антифриз</typePrefix>
+                <param name="Вид антифриза">Готовый к применению антифриз</param>
+                <param name="Производитель">Россия</param>
+                <param name="Цвет" hex="#00FF00">Зеленый</param>
+                <param name="Объем (л)">3</param>
+                <param name="Индекс допуска VAG">G-11</param>
+                <param name="Допуск">ASTM D3306</param>
+                <param name="Гарантия">В течение срока, установленного производителем</param>
+                <param name="Температура замерзания (°C)">-40</param>
+                <param name="Температура кипения (°C)">120</param>
+                <description>Устойчивый к замерзанию антифриз по доступной цене. Идеально подходит в качестве &quot;дежурного&quot; антифриза для долива.</description>
+                <rec title="Похожие товары">22222,33333,44444</rec>
+                <vat>vat_10</vat>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5229821/img_id8691013352836235795.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/1705137/img_id4044958778831247834.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/7464534/img_id4392974053101004661.jpeg/orig</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>false</preorder>
+                <rating>4.5</rating>
+                <reviews_count>67</reviews_count>
+            </offer>
+            <offer id="111113" available="true" group_id="101112">
+                <name>Антифриз STAREX Green 10кг</name>
+                <url>https://test.ru/test1/</url>
+                <price>600</price>
+                <currencyId>RUB</currencyId>
+                <vendor>STAREX</vendor>
+                <categoryId>1</categoryId>
+                <typePrefix>Антифриз</typePrefix>
+                <param name="Вид антифриза">Готовый к применению антифриз</param>
+                <param name="Производитель">Россия</param>
+                <param name="Цвет" hex="#00FF00">Зеленый</param>
+                <param name="Объем (л)">10</param>
+                <param name="Индекс допуска VAG">G-11</param>
+                <param name="Допуск">ASTM D3306</param>
+                <param name="Гарантия">В течение срока, установленного производителем</param>
+                <param name="Температура замерзания (°C)">-40</param>
+                <param name="Температура кипения (°C)">120</param>
+                <description>Устойчивый к замерзанию антифриз по доступной цене. Идеально подходит в качестве &quot;дежурного&quot; антифриза для долива.</description>
+                <rec title="Похожие товары">22222,33333,44444</rec>
+                <vat>vat_10</vat>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5229821/img_id8691013352836235795.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/1705137/img_id4044958778831247834.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/7464534/img_id4392974053101004661.jpeg/orig</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>false</preorder>
+                <rating>4.5</rating>
+                <reviews_count>67</reviews_count>
+            </offer>
+            <offer id="22222" available="true">
+                <name>Тормозная жидкость SINTEC Super DOT-4 455 г</name>
+                <url>https://test.ru/test2/</url>
+                <price>499</price>
+                <currencyId>RUB</currencyId>
+                <vendor>SINTEC</vendor>
+                <categoryId>1</categoryId>
+                <typePrefix>Жидкость тормозная</typePrefix>
+                <param name="Тип">Гликолевая</param>
+                <param name="Стандарт DOT">DOT 4</param>
+                <param name="Производитель">Россия</param>
+                <param name="Объем (л)">0.455</param>
+                <param name="Гарантия">В течение срока, установленного производителем</param>
+                <param name="Температура кипения &quot;сухой&quot; жидкости, (°C)">264</param>
+                <param name="Температура кипения &quot;влажной&quot; жидкости, (°C)">176</param>
+                <description>Тормозная жидкость, предназначенная для использования в гидроприводах тормозных систем и сцеплений автомобилей отечественного и зарубежного производства. Победитель конкурса &quot;100 лучших товаров России&quot;. Температура кипения сухой жидкости – не менее +265°С. Высокая температура кипения и улучшенные низкотемпературные характеристики сокращают тормозной путь и сохраняют быстродействие системы ABS. Не оказывает отрицательного воздействия на детали тормозной системы и обладает высокой термической стабильностью. Превышает требования стандарта FMVSS№116 DOT4.<description>
+                <rec title="Похожие товары">11111,33333,44444</rec>
+                <vat>vat_10</vat>
+                <picture>https://движок.сайт/upload/iblock/9d0/mt5t8fyr1x8jucrodexajpvoa5w1wd0u.jpg</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5313128/img_id6770908927821996443.png/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5219059/img_id835891167800378041.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4907979/img_id5781533142400745122.jpeg/orig</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>false</preorder>
+                <rating>4.6</rating>
+                <reviews_count>32</reviews_count>
+            </offer>
+            <offer id="33333" available="true">
+                <name>Жидкость стеклоомывающая AVS AVK-401</name>
+                <url>https://test.ru/test3/</url>
+                <price>250</price>
+                <currencyId>RUB</currencyId>
+                <vendor>AVS</vendor>
+                <categoryId>1</categoryId>
+                <typePrefix>Жидкость стеклоомывающая</typePrefix>
+                <param name="Производитель">Китай</param>
+                <param name="Цвет" hex="#0000FF">Синий</param>
+                <param name="Объем (л)">4</param>
+                <param name="Гарантия">В течение сррока, установленного производителем</param>
+                <param name="Температура замерзания (°C)">-40</param>
+                <description>Незамерзающая стеклоомывающая жидкость предназначена для работы в системах омывания стекол автомобилей зимой. Содержит добавки, обеспечивающие эффективное удаление снега и льда, нефтяных пятен зимой.</description>
+                <rec title="Похожие товары">11111,22222,44444</rec>
+                <vat>vat_20</vat>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4561793/img_id4600198195087049421.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5335973/img_id131712454072548125.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4794494/img_id6030876109087475767.jpeg/orig</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>true</preorder>
+                <rating>5.0</rating>
+                <reviews_count>423</reviews_count>
+            </offer>
+            <offer id="44444" available="true" group_id="101113">
+                <name>"Электролит OILRIGHT 1 л"</name>
+                <url>https://test.ru/test4/</url>
+                <price>125</price>
+                <currencyId>RUB</currencyId>
+                <vendor>OILRIGHT</vendor>
+                <categoryId>1</categoryId>
+                <typePrefix>"Электролит"</typePrefix>
+                <param name="Производитель">Россия</param>
+                <param name="Объем (л)">1</param>
+                <param name="Гарантия">В течение сррока, установленного производителем</param>
+                <description>Электролит OILRIGHT – готовый к применению кислотный электролит, предназначен для заливки в тяговые и стартерные аккумуляторы. Произведен на основе высококачественной серной аккумуляторной кислоты и дистиллированной воды высокой степени очистки. Продлевает срок службы всех марок кислотных стартерных аккумуляторов.</description>
+                <rec title="Похожие товары">11111,22222,33333</rec>
+                <vat>vat_20</vat>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5219318/img_id2197318633982637931.jpeg/orig</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>true</preorder>
+                <rating>4.8</rating>
+                <reviews_count>11</reviews_count>
+            </offer>
+            <offer id="444441" available="true" group_id="1011131">
+                <name>"Электролит OILRIGHT 3 л"</name>
+                <url>https://test.ru/test4/</url>
+                <price>270</price>
+                <currencyId>RUB</currencyId>
+                <vendor>OILRIGHT</vendor>
+                <categoryId>1</categoryId>
+                <typePrefix>"Электролит"</typePrefix>
+                <param name="Производитель">Россия</param>
+                <param name="Объем (л)">3</param>
+                <param name="Гарантия">В течение сррока, установленного производителем</param>
+                <description>Электролит OILRIGHT – готовый к применению кислотный электролит, предназначен для заливки в тяговые и стартерные аккумуляторы. Произведен на основе высококачественной серной аккумуляторной кислоты и дистиллированной воды высокой степени очистки. Продлевает срок службы всех марок кислотных стартерных аккумуляторов.</description>
+                <rec title="Похожие товары">11111,22222,33333</rec>
+                <vat>vat_20</vat>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5219318/img_id2197318633982637931.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4367383/img_id5105475761660605085.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4012096/img_id7365483954225202682.jpeg/orig</picture>
+                <useBonuses>true</useBonuses>
+                <preorder>true</preorder>
+                <rating>4.8</rating>
+                <reviews_count>11</reviews_count>
+            </offer>
+            <offer id="666666" available="true" group_id="10987">
+                <name>Pirelli P Zero New (Sport) 325/30 R23 109</name>
+                <url>https://test.ru/test6/</url>
+                <price>145000</price>
+                <currencyId>RUB</currencyId>
+                <vendor>Pirelli</vendor>
+                <categoryId>2</categoryId>
+                <typePrefix>Спортивные шины</typePrefix>
+                <param name="Производитель">Италия</param>
+                <param name="Ширина профиля">325</param>
+                <param name="Высота профиля">30</param>
+                <param name="Диаметр">R23</param>
+                <param name="Индекс максимальной скорости">Y (до 300 км/ч)</param>
+                <description>P Zero Sport является летней резиной, которая сочетается с легковыми автомобилями среднего и премиум класса. Может иметь два вида протекторного рисунка. Также, подойдет для автомобилей спортивного типа, которые имеют мощные динамические качества. Для модели шин характерна превосходная управляемость при высоких скоростях и на любом типе дорожного полотна. Пользуются спросом за счет отличной адаптации вне зависимости от погодных условий. За счет отличной дренажной системы происходит быстрый вывод воды из пятна контакта. Дополнительно, для модели характерны высокие показатели износостойкости и продолжительный рабочий ресурс.</description>
+                <rec title="Похожие товары">777777,888888,999999</rec>
+                <vat>vat_20</vat>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4397502/img_id2243447167652528113.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4080173/img_id5431496418262663876.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4362548/img_id854574301630676692.jpeg/orig</picture>
+                <useBonuses>false</useBonuses>
+                <preorder>true</preorder>
+                <rating>5.0</rating>
+                <reviews_count>28</reviews_count>
+            </offer>
+            <offer id="6666661" available="true" group_id="10987">
+                <name>Pirelli P Zero New (Sport) 315/35 R21 111Y</name>
+                <url>https://test.ru/test6/</url>
+                <price>145000</price>
+                <currencyId>RUB</currencyId>
+                <vendor>Pirelli</vendor>
+                <categoryId>2</categoryId>
+                <typePrefix>Спортивные шины</typePrefix>
+                <param name="Производитель">Италия</param>
+                <param name="Ширина профиля">315</param>
+                <param name="Высота профиля">35</param>
+                <param name="Диаметр">R21</param>
+                <param name="Индекс максимальной скорости">Y (до 300 км/ч)</param>
+                <description>P Zero Sport является летней резиной, которая сочетается с легковыми автомобилями среднего и премиум класса. Может иметь два вида протекторного рисунка. Также, подойдет для автомобилей спортивного типа, которые имеют мощные динамические качества. Для модели шин характерна превосходная управляемость при высоких скоростях и на любом типе дорожного полотна. Пользуются спросом за счет отличной адаптации вне зависимости от погодных условий. За счет отличной дренажной системы происходит быстрый вывод воды из пятна контакта. Дополнительно, для модели характерны высокие показатели износостойкости и продолжительный рабочий ресурс.</description>
+                <rec title="Похожие товары">777777,888888,999999</rec>
+                <vat>vat_20</vat>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4397502/img_id2243447167652528113.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4080173/img_id5431496418262663876.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4362548/img_id854574301630676692.jpeg/orig</picture>
+                <useBonuses>false</useBonuses>
+                <preorder>true</preorder>
+                <rating>5.0</rating>
+                <reviews_count>28</reviews_count>
+            </offer>
+            <offer id="777777" available="true" group_id="109876">
+                <name>Bridgestone Potenza Sport 285/40 R21 109</name>
+                <url>https://test.ru/test6/</url>
+                <price>60000</price>
+                <currencyId>RUB</currencyId>
+                <vendor>Bridgestone</vendor>
+                <categoryId>2</categoryId>
+                <typePrefix>Спортивные шины</typePrefix>
+                <param name="Производитель">Япония</param>
+                <param name="Ширина профиля">285</param>
+                <param name="Высота профиля">40</param>
+                <param name="Диаметр">R21</param>
+                <param name="Индекс максимальной скорости">Y (до 300 км/ч)</param>
+                <description>Шины известного бренда Bridgestone марки Potenza Sport отлично зарекомендовали себя на летних дорогах. Эти шины не оснащены технологий Ранфлет (Runflat).</description>
+                <rec title="Похожие товары">666666,888888,999999</rec>
+                <vat>vat_20</vat>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4544069/img_id962000793793184742.png/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5378193/img_id4341031306732130811.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5281967/img_id211379701398948227.jpeg/orig</picture>
+                <useBonuses>false</useBonuses>
+                <preorder>true</preorder>
+                <rating>5.0</rating>
+                <reviews_count>35</reviews_count>
+            </offer>
+            <offer id="888888" available="true" group_id="109876">
+                <name>Bridgestone Potenza Sport 295/40 R20 110</name>
+                <url>https://test.ru/test6/</url>
+                <price>28970</price>
+                <currencyId>RUB</currencyId>
+                <vendor>Bridgestone</vendor>
+                <categoryId>2</categoryId>
+                <typePrefix>Спортивные шины</typePrefix>
+                <param name="Производитель">Япония</param>
+                <param name="Ширина профиля">295</param>
+                <param name="Высота профиля">40</param>
+                <param name="Диаметр">R20</param>
+                <param name="Индекс максимальной скорости">Y (до 300 км/ч)</param>
+                <description>Шины известного бренда Bridgestone марки Potenza Sport отлично зарекомендовали себя на летних дорогах. Эти шины не оснащены технологий Ранфлет (Runflat).</description>
+                <rec title="Похожие товары">666666,777777,999999</rec>
+                <vat>vat_20</vat>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4544069/img_id962000793793184742.png/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5378193/img_id4341031306732130811.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5281967/img_id211379701398948227.jpeg/orig</picture>
+                <useBonuses>false</useBonuses>
+                <preorder>true</preorder>
+                <rating>5.0</rating>
+                <reviews_count>35</reviews_count>
+            </offer>
+            <offer id="999999" available="true" group_id="109876">
+                <name>Bridgestone Potenza Sport 275/35 R21 110</name>
+                <url>https://test.ru/test6/</url>
+                <price>33700</price>
+                <currencyId>RUB</currencyId>
+                <vendor>Bridgestone</vendor>
+                <categoryId>2</categoryId>
+                <typePrefix>Спортивные шины</typePrefix>
+                <param name="Производитель">Япония</param>
+                <param name="Ширина профиля">275</param>
+                <param name="Высота профиля">35</param>
+                <param name="Диаметр">R21</param>
+                <param name="Индекс максимальной скорости">Y (до 300 км/ч)</param>
+                <description>Шины известного бренда Bridgestone марки Potenza Sport отлично зарекомендовали себя на летних дорогах. Эти шины не оснащены технологий Ранфлет (Runflat).</description>
+                <rec title="Похожие товары">666666,888888,777777</rec>
+                <vat>vat_20</vat>
+                <picture>https://avatars.mds.yandex.net/get-mpic/4544069/img_id962000793793184742.png/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5378193/img_id4341031306732130811.jpeg/orig</picture>
+                <picture>https://avatars.mds.yandex.net/get-mpic/5281967/img_id211379701398948227.jpeg/orig</picture>
+                <useBonuses>false</useBonuses>
+                <preorder>true</preorder>
+                <rating>5.0</rating>
+                <reviews_count>35</reviews_count>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
