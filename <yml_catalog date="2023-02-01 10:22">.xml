@@ -95,7 +95,7 @@
                 <price>499</price>
                 <currencyId>RUB</currencyId>
                 <vendor>SINTEC</vendor>
-                <categoryId>234</categoryId>
+                <categoryId>1</categoryId>
                 <typePrefix>Жидкость тормозная</typePrefix>
                 <param name="Тип">Гликолевая</param>
                 <param name="Стандарт DOT">DOT 4</param>
