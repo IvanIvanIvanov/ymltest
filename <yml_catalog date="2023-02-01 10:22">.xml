@@ -181,6 +181,7 @@
                 <name>Pirelli P Zero New (Sport) 325/30 R23 109</name>
                 <url>https://test.ru/test6/</url>
                 <price>145000</price>
+                <priceUnits>шт</priceUnits>
                 <currencyId>RUB</currencyId>
                 <vendor>Pirelli</vendor>
                 <categoryId>23</categoryId>
@@ -206,6 +207,7 @@
                 <name>Pirelli P Zero New (Sport) 335/30 R23 109</name>
                 <url>https://test.ru/test6/</url>
                 <price>145000</price>
+                <priceUnits>шт</priceUnits>
                 <currencyId>RUB</currencyId>
                 <vendor>Pirelli</vendor>
                 <categoryId>23</categoryId>
@@ -231,6 +233,7 @@
                 <name>Pirelli P Zero New (Sport) 315/35 R21 111Y</name>
                 <url>https://test.ru/test6/</url>
                 <price>145000</price>
+                <priceUnits>шт</priceUnits>
                 <currencyId>RUB</currencyId>
                 <vendor>Pirelli</vendor>
                 <categoryId>21</categoryId>
@@ -256,6 +259,7 @@
                 <name>Bridgestone Potenza Sport 285/40 R21 109</name>
                 <url>https://test.ru/test6/</url>
                 <price>60000</price>
+                <priceUnits>шт</priceUnits>
                 <currencyId>RUB</currencyId>
                 <vendor>Bridgestone</vendor>
                 <categoryId>21</categoryId>
@@ -281,6 +285,7 @@
                 <name>Bridgestone Potenza Sport 295/40 R20 110</name>
                 <url>https://test.ru/test6/</url>
                 <price>28970</price>
+                <priceUnits>шт</priceUnits>
                 <currencyId>RUB</currencyId>
                 <vendor>Bridgestone</vendor>
                 <categoryId>20</categoryId>
@@ -306,6 +311,7 @@
                 <name>Bridgestone Potenza Sport 275/35 R21 110</name>
                 <url>https://test.ru/test6/</url>
                 <price>33700</price>
+                <priceUnits>шт</priceUnits>
                 <currencyId>RUB</currencyId>
                 <vendor>Bridgestone</vendor>
                 <categoryId>21</categoryId>
