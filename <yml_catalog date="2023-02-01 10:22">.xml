@@ -3,9 +3,9 @@
         <categories>
             <category id="1" picture="https://avatars.mds.yandex.net/get-mpic/5521597/img_id915335463580666928.png/600x800">Автомобильные жидкости</category>
             <category id="2" picture="https://avatars.mds.yandex.net/get-mpic/5378193/img_id4341031306732130811.jpeg/orig">Спортивные шины</category>
-            <category id="20" parentId="2" picture="https://avatars.mds.yandex.net/get-mpic/5378193/img_id4341031306732130811.jpeg/orig">Спортивные шины</category>
-            <category id="21" parentId="2" picture="https://avatars.mds.yandex.net/get-mpic/5378193/img_id4341031306732130811.jpeg/orig">Спортивные шины</category>
-            <category id="23" parentId="2" picture="https://avatars.mds.yandex.net/get-mpic/5378193/img_id4341031306732130811.jpeg/orig">Спортивные шины</category>
+            <category id="20" parentId="2" picture="https://i.ebayimg.com/images/g/EzAAAOSwbKtiNQKY/s-l500.jpg">Шины R20</category>
+            <category id="21" parentId="2" picture="https://i.ebayimg.com/images/g/BoIAAOSwWU9i6D7n/s-l500.jpg">Шины R21</category>
+            <category id="23" parentId="2" picture="https://i.ebayimg.com/images/g/rRAAAOSwVU5iDSyV/s-l1600.jpg">Шины R23</category>
         </categories>
         <offers>
             <offer id="11111" available="true" group_id="101112">
