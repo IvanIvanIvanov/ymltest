@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<inventory>
+    <outlets>
+        <outlet id="2">
+            <name>Тест физик</name>
+            <city>Москва</city>
+            <address>Тест Адрес</address>
+            <subway>Тест метро</subway>
+            <lat></lat>
+            <lon></lon>
+            <online>false</online>
+        </outlet>
+    </outlets>
+    <availability>
+        <product
+            id="11111"
+            outlet="2"
+            quantity="99"
+        />
+        <product
+            id="111112"
+            outlet="2"
+            quantity="99"
+        />
+         <product
+            id="111113"
+            outlet="2"
+            quantity="18"
+        />
+        <product
+            id="22222"
+            outlet="2"
+            quantity="99"
+        />
+        <product
+            id="33333"
+            outlet="2"
+            quantity="99"
+        />
+        <product
+            id="44444"
+            outlet="2"
+            quantity="99"
+        />
+        <product
+            id="444441"
+            outlet="2"
+            quantity="99"
+        />
+         <product
+            id="666666"
+            outlet="2"
+            quantity="99"
+        />
+        <product
+            id="6666664"
+            outlet="2"
+            quantity="99"
+        />
+        <product
+            id="6666661"
+            outlet="2"
+            quantity="99"
+        />
+        <product
+            id="777777"
+            outlet="2"
+            quantity="99"
+        />
+            <product
+            id="888888"
+            outlet="2"
+            quantity="99"
+        />
+        <product
+            id="999999"
+            outlet="2"
+            quantity="99"
+        />
+    </availability>
+</inventory>
